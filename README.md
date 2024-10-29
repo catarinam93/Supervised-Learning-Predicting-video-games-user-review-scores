@@ -1,5 +1,5 @@
 # Supervised-Learning-Predicting-video-games-user-review-scores
-Second assignment of the course Elements of Artificial Intelligence and Data Science (1st year, 2nd semester - 21/22)
+Second assignment of the course Elements of Artificial Intelligence and Data Science (BSc in Artificial Intelligence and Data Science 1st year, 2nd semester - 21/22)
 
 ## A little context
 ### Goal of the work
